@@ -1,0 +1,56 @@
+
+img {
+	float:left;
+	width:99%;
+	margin:10px 50px 20px 0px;
+}
+h1 {
+	color:red;
+	font-family:"Century Gothic";
+}
+h3, h4 {
+	color:grey;
+	font-family:;
+}
+#nav {
+	float:left;
+	width:16.66%;
+	list-style:none;
+	background-color:black;
+	height:50px;
+	font-size:22px;
+	color:white;
+	margin:0 auto;
+	border: 2px solid #fff;
+	box-sizing:border-box;
+}
+#left{
+	float:left;
+	width:70%;
+}
+#sidebar {
+	float:right;
+	width:30%;
+}
+div p:first-of-type:first-letter {
+	float:left;
+	font size:6em;
+	line-height:1;
+	color:#DDD;
+	margin:-.1em .1em 0 -.1em;
+}
+footer {
+	float:left;
+	width: 70%;
+	color:grey;
+}
+nav {
+	color:red;
+}
+.ad {
+	width:200px;
+    height:100px;
+    background-color:grey;
+    border:grey 1px solid;
+
+}
